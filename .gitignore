@@ -1,0 +1,29 @@
+# Node / React
+node_modules/
+dist/
+build/
+.env
+.vite/
+
+# Python / Django
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+*.sqlite3
+
+# IDE / Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Uploaded media files (optional, if you don't want large uploads in Git)
+media/
+resumes/
