@@ -1,9 +1,5 @@
 # Node / React
-node_modules/
-dist/
-build/
 .env
-.vite/
 
 # Python / Django
 __pycache__/
@@ -12,6 +8,7 @@ __pycache__/
 *.pyd
 venv/
 .env
+backend/backend/settings.py
 *.sqlite3
 
 # IDE / Editor

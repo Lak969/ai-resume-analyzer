@@ -27,19 +27,19 @@ A web application that analyzes your resume using AI and helps match it with job
 ## Screenshots
 
 **Login Page**  
-![Login](screenshots/login.png)
+![Login](frontend/screenshots/login.png)
 
 **Upload Resume Page**  
-![Upload](screenshots/upload.png)
+![Upload](frontend/screenshots/upload.png)
 
 **Results Page (AI Analysis)**  
-![Results](screenshots/results.png)
+![Results](frontend/screenshots/results.png)
 
 **Job Match Page**  
-![Job Match](screenshots/job_match.png)
+![Job Match](frontend/screenshots/job_match.png)
 
 **Dashboard**  
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](frontend/screenshots/dashboard.png)
 
 ---
 
