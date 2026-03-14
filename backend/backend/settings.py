@@ -20,7 +20,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/6.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-xbde(b$+8(n&dqe-*l%%+bvpuii3rd_4tw%&8me$%8btd=^*fo'
+SECRET_KEY = 'd******************************'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -119,7 +119,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/6.0/howto/static-files/
 
 STATIC_URL = 'static/'
-GEMINI_API_KEY = "AIzaSyDcxRZ14-DLsqqTfFGETsKsq4CP7TX51J0"
+GEMINI_API_KEY = "A***********************"
 
 REST_FRAMEWORK = {
     'DEFAULT_AUTHENTICATION_CLASSES': ('rest_framework_simplejwt.authentication.JWTAuthentication',),
