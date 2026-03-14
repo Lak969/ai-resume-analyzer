@@ -46,14 +46,14 @@ A web application that analyzes your resume using AI and helps match it with job
 ## Getting Started
 
 ### Frontend
-- ```bash
+
 - cd frontend
 - npm install
 - npm start
 
 ### Backend
 
-- ```bash
+
 - cd backend
 - python -m venv .venv
 
